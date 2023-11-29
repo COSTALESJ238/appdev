@@ -1,5 +1,7 @@
-# appdev
-*My Favorite Series/Movies*
+# *My Favorite Series/Movies*
 1. Harry Potter
+> Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and Muggles (non-magical people).
 2. Stranger Things
+> Stranger Things is an American science fiction horror drama television series created by the Duffer Brothers for Netflix. Produced by Monkey Massacre Productions and 21 Laps Entertainment, the first season was released on Netflix on July 15, 2016. The second and third season followed in October 2017 and July 2019 respectively, and the fourth season aired in two parts in May and July 2022. In February 2022, Stranger Things was renewed for a fifth and final season.
 3. Super Dark Times
+> Super Dark Times is a 2017 American independent psychological thriller film directed by Kevin Phillips and starring Owen Campbell, Charlie Tahan, and Elizabeth Cappuccino. It is Phillips' directorial debut. After a traumatic accident, an inseparable pair of teenage boys and best friends lose their innocence and sanity from jealousy, violence and paranoia.
